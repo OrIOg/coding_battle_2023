@@ -1,0 +1,9 @@
+potion_15
+13
+potion_0 potion_1 potion_2 potion_3 potion_4 potion_5 potion_6 potion_7 potion_8 potion_9 potion_10 potion_11 potion_12
+5
+potion_13 potion_6 potion_12
+potion_14 potion_11 potion_5
+potion_15 potion_14 potion_6
+potion_16 potion_5 potion_4
+potion_17 potion_0 potion_1

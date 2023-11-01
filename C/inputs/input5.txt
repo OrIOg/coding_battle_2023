@@ -1,0 +1,24 @@
+potion_71
+65
+potion_0 potion_1 potion_2 potion_3 potion_4 potion_5 potion_6 potion_7 potion_8 potion_9 potion_10 potion_11 potion_12 potion_13 potion_14 potion_15 potion_16 potion_17 potion_18 potion_19 potion_20 potion_21 potion_22 potion_23 potion_24 potion_25 potion_26 potion_27 potion_28 potion_29 potion_30 potion_31 potion_32 potion_33 potion_34 potion_35 potion_36 potion_37 potion_38 potion_39 potion_40 potion_41 potion_42 potion_43 potion_44 potion_45 potion_46 potion_47 potion_48 potion_49 potion_50 potion_51 potion_52 potion_53 potion_54 potion_55 potion_56 potion_57 potion_58 potion_59 potion_60 potion_61 potion_62 potion_63 potion_64
+20
+potion_65 potion_11 potion_16
+potion_66 potion_64 potion_39
+potion_67 potion_25 potion_65
+potion_68 potion_0 potion_15
+potion_69 potion_67 potion_56
+potion_70 potion_58 potion_37
+potion_71 potion_59 potion_38
+potion_72 potion_28 potion_48
+potion_73 potion_60 potion_65
+potion_74 potion_40 potion_49
+potion_75 potion_59 potion_71
+potion_76 potion_74 potion_42
+potion_77 potion_24 potion_50
+potion_78 potion_73 potion_24
+potion_79 potion_56 potion_39
+potion_80 potion_30 potion_35
+potion_81 potion_75 potion_12
+potion_82 potion_54 potion_28
+potion_83 potion_18 potion_29
+potion_84 potion_41 potion_53
