@@ -13,7 +13,7 @@ The position of each ghost on a grid is given. What is the minimum surface area 
 
 **Line 1**: an integer `N`, the number of ghosts, `0 < N <= 1000`.
 
-**The following `N` lines**: two integers `X``i` and `Y``i` separated by a space, the coordinates of the `i``th` ghost, `0 <= X``i``, Y``i` `<= 1000`.
+**The following `N` lines**: two integers `X`<sub>`i`</sub> and `Y`<sub>`i`</sub> separated by a space, the coordinates of the `i`<sup>`th`</sup> ghost, `0 <= X`<sub>`i`</sub>`, Y`<sub>`i`</sub> `<= 1000`.
 
 ### Output
 

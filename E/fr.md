@@ -13,7 +13,7 @@ Sachant que l'aspirateur peut aspirer tous les fantômes dans un rayon donné, c
 
 **Ligne 2** : Un entier `N`, le nombre de fantômes, avec `0 < N <= 100`.
 
-**Les `N` lignes suivantes** : deux entiers `X``i` et `Y``i` séparés par un espace, la position du `i``ème` fantôme, `0 <= X``i``, Y``i` `<= 1000`.
+**Les `N` lignes suivantes** : deux entiers `X`<sub>`i`</sub> et `Y`<sub>`i`</sub> séparés par un espace, la position du `i`<sup>`ème`</sup> fantôme, `0 <= X`<sub>`i`</sub>`, Y`<sub>`i`</sub> `<= 1000`.
 
 ### Sortie
 

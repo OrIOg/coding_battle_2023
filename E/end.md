@@ -13,8 +13,7 @@ Knowing that the vacuum cleaner can vacuum all the ghosts in a given radius, how
 
 **Line 2**: An integer `N`, the number of ghosts, with `0 < N <= 100`.
 
-**The following `N` lines**: two integers `X``i` and `Y``i` separated by a space, the position of the `i``th` ghost, `0 <= X``i``, Y``i` `<= 1000`.
-
+**The following `N` lines**: two integers `X`<sub>`i`</sub> and `Y`<sub>`i`</sub> separated by a space, the position of the `i`<sup>`th`</sup> ghost, `0 <= X`<sub>`i`</sub>`, Y`<sub>`i`</sub> `<= 1000`.
 ### Output
 
 The maximum number of ghosts that can be vacuumed at once.

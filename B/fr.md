@@ -13,7 +13,7 @@ On donne la position de chaque fantôme sur une grille. Quelle est la surface mi
 
 **Ligne 1** : un entier `N`, le nombre de fantômes, `0 < N <= 1000`.
 
-**Les `N` lignes suivantes** : deux entiers `X``i` et `Y``i` séparés par un espace, les coordonnées du `i``ème` fantôme, `0 <= X``i``, Y``i` `<= 1000`.
+**Les `N` lignes suivantes** : deux entiers `X`<sub>`i`</sub> et `Y`<sub>`i`</sub> séparés par un espace, les coordonnées du `i`<sup>`ème`</sup> fantôme, `0 <= X`<sub>`i`</sub>`, Y`<sub>`i`</sub> `<= 1000`.
 
 ### Sortie
 
